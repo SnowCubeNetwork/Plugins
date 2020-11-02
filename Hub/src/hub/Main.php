@@ -21,6 +21,12 @@ class Main extends PluginBase {
 			"title" => "SnowCube Network",
 			"server-ip" => "play.snowcube.ml"
 		]);
+		if (!$this->config->get("title")) {
+			$this->config->set("title", "SnowCube Network");
+		}
+		if (!$this->config->get("server-ip")) {
+			$this->config->set("server-ip", "play.snowcube.ml");
+		}
 	}
 
 }
