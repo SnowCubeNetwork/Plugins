@@ -1,4 +1,6 @@
 ---
+# Scoreboard title
 title: SnowCube Network
+# Server ip displayed on scoreboard
 server-ip: play.snowcube.ml
 ...
