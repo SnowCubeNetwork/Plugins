@@ -1,0 +1,16 @@
+name: Pets
+main: pets\Main
+version: 1.0.0
+api: 3.0.0
+author: IceCruelStuff
+description: Pets plugin for SnowCube Network
+commands:
+  pets:
+    description: Manages pets
+    usage: /pets <command> <args>
+    permission: pets
+
+permissions:
+  pets:
+    default: op
+    description: Permission for /pets command

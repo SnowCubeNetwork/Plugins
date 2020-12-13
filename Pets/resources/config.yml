@@ -1,0 +1,75 @@
+###################################################
+## Set the message for when you turn off the Pet
+PetOffMsg: §b[Pet -> Me]§f - §eOkay, I'll be around.
+
+####################################################
+##Set Cost Of A Dog & Message When it's Selected
+SpawnDogMsg: §bYour Dog is Here ! §aCost - $10,000
+DogCost: 10000
+
+## Set Cost Of A Cat & Message When it's Selected
+SpawnCatMsg: §bYour Cat is Here ! §aCost - $10,000
+CatCost: 10000
+
+## Set Cost Of A Rabbit & Message When it's Selected
+SpawnBrownRabbitMsg: §bYour BrownRabbit is Here ! §aCost - $10,000
+BrownRabbitCost: 10000
+
+## Set Cost Of A Chicken & Message When Selected
+SpawnChickenMsg: §bYour Chicken is Here ! §aCost - $5,000
+ChickenCost: 5000
+
+## Set Cost Of A Silverfish & Message When Selected
+SpawnSilverfishMsg: §bYour Silverfish is Here ! §aCost - $100,000
+SilverfishCost: 100000
+
+## Set Cost Of A Magma & Message When Selected
+SpawnMagmaMsg: §bYour Magma is Here ! §aCost - $5,000
+MagmaCost: 5000
+
+## Set Cost Of A Creep & Message When Selected
+SpawnCreepMsg: §bYour Creep is Here ! §aCost - $15,000
+CreepCost: 15000
+
+## Set Cost Of A Ender & Message When Selected
+SpawnEnderMsg: §bYour Ender is Here ! §aCost - $75,000
+EnderCost: 75000
+
+## Set Cost Of A Zomb & Message When Selected
+SpawnZombieMsg: §bYour Zombie is Here ! §aCost - $35,000
+ZombieCost: 35000
+
+## Set Cost Of A ZombVlgr & Message When Selected
+SpawnZombieVillagerMsg: §bYour ZombieVillager is Here ! §aCost - $35,000
+ZombieVillagerCost: 35000
+
+## Set Cost Of A Bat & Message When Selected 
+SpawnBatMsg: §bYour Bat is Here ! §aCost - $5,000
+BatCost: 5000
+
+## Set Cost Of A Block & Message When Selected
+SpawnBlockMsg: §bYour Blockin is Here ! §aCost - $5,000
+BlockCost: 5000
+
+########################################################
+## Edit this to show correct price in /pet list command 
+PetPrices: §bDog§f; §6$10,000
+PetPrices2: §bCat§f; §6$10,000
+PetPrices3: §bBat§f; §6$5,000
+PetPrices4: §bBrownRabbit§f; §6$10,000
+PetPrices5: §bChicken§f; §6$5,000
+PetPrices6: §bMagma§f; §6$5,000
+PetPrices7: §bCreep§f; §6$15,000
+PetPrices8: §bSilverfish§f; §6$100,000    
+PetPrices9: §bZombie§f; §6$35,000
+PetPrices10: §bZombieVillager§f; §6$35,000
+PetPrices11: §bEndieMan§f; §6$75,000
+PetPrices12: §bBlock§f; §6$5,000
+PetPrices13:
+PetPrices14:
+PetPrices15:
+PetPrices16:
+PetPrices17:
+PetPrices18:
+PetPrices19:
+PetPrices20:
