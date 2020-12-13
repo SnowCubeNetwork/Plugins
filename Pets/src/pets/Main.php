@@ -75,9 +75,9 @@ class Main extends PluginBase implements Listener {
 				}
 				if (!$this->getConfig()->get('onlyOp') || $sender->hasPermission("pets")) {
 					if ($this->givePet(...$args)) {
-                        $sender->sendMessage(TextFormat::BLUE . '[Pets] Unable to give ' . $args[0] . 'a new pet!');
-                    }
-                    return true;
+						$sender->sendMessage(TextFormat::BLUE . '[Pets] Unable to give ' . $args[0] . 'a new pet!');
+					}
+					return true;
 				}
 				$sender->sendMessage(TextFormat::RED . "[Pets] You don't have permission to do that...");
 				return true;
