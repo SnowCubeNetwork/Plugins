@@ -1,0 +1,6 @@
+name: AntiCheat
+main: AntiCheat\AntiCheat
+version: 1.0.0
+api: 3.0.0
+description: AntiCheat plugin for SnowCube Network
+author: IceCruelStuff
