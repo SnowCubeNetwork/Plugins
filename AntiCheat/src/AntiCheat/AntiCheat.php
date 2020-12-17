@@ -74,7 +74,7 @@ class AntiCheat extends PluginBase implements Listener {
 
 	public function onKick(PlayerKickEvent $event) {
 		$reason = $event->getReason();
-		if ($reason == "No-clip is not enabled on this server") {
+		if ($reason == $this->getServer()->getLanguage()->translateString("kick.reason.cheat"), ["%ability.noclip"]) {
 			$pk = new AdventureSettingsPacket();
 			$pk->setFlag(AdventureSettingsPacket::NO_CLIP, false);
 			$event->setCancelled(true);
